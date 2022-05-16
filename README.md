@@ -41,6 +41,7 @@ https://ivanova-web.azurewebsites.net
 <операция>/<значение 1>&<значение 2>
 
 Примеры запросов:
+
 ![img.png](assets/Add.png)
 ![img.png](assets/mult.png)
 ![img.png](assets/div.png)
